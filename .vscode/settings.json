@@ -1,0 +1,36 @@
+{
+    "workbench.colorTheme": "Default Dark Modern",
+    "workbench.iconTheme": "vscode-icons",
+    "editor.fontFamily": "Fira Code",
+    "explorer.autoReveal": true,
+    "editor.wordWrap": "on",
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 10000,
+    "editor.formatOnSave": true,
+    "editor.guides.bracketPairs": true,
+    "editor.fontLigatures": true,
+    "editor.quickSuggestions": {
+        "strings": true
+    },
+    "editor.tabSize": 4,
+    "editor.linkedEditing": true,
+    "codeium.enableConfig": {
+        "*": true,
+        "markdown": true
+    },
+    "files.eol": "\n",
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter",
+        "editor.formatOnSave": true
+    },
+    "python.analysis.typeCheckingMode": "basic",
+    "indentRainbow.indicatorStyle": "light",
+    "indentRainbow.lightIndicatorStyleLineWidth": 1,
+    "indentRainbow.colors": [
+        "rgba(255,255,64,0.3)",
+        "rgba(127,255,127,0.3)",
+        "rgba(255,127,255,0.3)",
+        "rgba(79,236,236,0.3)"
+    ],
+    "todo-tree.general.statusBar": "total",
+}
