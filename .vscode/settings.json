@@ -1,7 +1,5 @@
 {
-    "workbench.colorTheme": "Default Dark Modern",
-    "workbench.iconTheme": "vscode-icons",
-    "editor.fontFamily": "Fira Code",
+    "workbench.colorTheme": "Catppuccin Macchiato",
     "explorer.autoReveal": true,
     "editor.wordWrap": "on",
     "files.autoSave": "afterDelay",
